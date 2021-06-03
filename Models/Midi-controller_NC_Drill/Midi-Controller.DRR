@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Midi-Controller.CMPcbDoc   5/6/2021  6:40:47 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Midi-Controller.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        29.53mil (0.75006mm)     Round          8                3.69 Inch (93.84 mm)
+T2        39.37mil (1mm)           Round          8                3.34 Inch (84.85 mm)
+T3        40mil (1.016mm)          Round          28               4.60 Inch (116.84 mm)
+T4        47.24mil (1.1999mm)      Round          18               9.55 Inch (242.62 mm)
+T5        66.93mil (1.70002mm)     Round          12               7.02 Inch (178.34 mm)
+T6        125mil (3.175mm)         Round          3                5.88 Inch (149.23 mm)
+T7        125mil (3.175mm)         Round          1         NPTH   0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            78               34.08 Inch (865.72 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

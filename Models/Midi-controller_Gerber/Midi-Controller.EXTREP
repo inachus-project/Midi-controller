@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Midi-Controller.GBR   5/6/2021  6:40:27 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.Outline            Outline                                 
+.Test Points Top    BoardOutline                            
+.GD1                Drill Drawing                           
+------------------------------------------------------------------------------------------

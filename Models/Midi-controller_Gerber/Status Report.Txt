@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Midi-controller.PrjPcb]
+   Generated File[Midi-Controller.GTL]
+   Generated File[Midi-Controller.GBL]
+   Generated File[Midi-Controller.GTO]
+   Generated File[Midi-Controller.GTP]
+   Generated File[Midi-Controller.GTS]
+   Generated File[Midi-Controller.GBS]
+   Generated File[Midi-Controller.GBP]
+   Generated File[Midi-Controller.GBO]
+   Generated File[Midi-Controller.Outline]
+   Generated File[Midi-Controller.Test Points Top]
+   Generated File[Midi-Controller.GD1]
+   Generated File[Midi-Controller.RUL]
+   Generated File[Midi-Controller.EXTREP]
+   Generated File[Midi-Controller.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 6:40:28 PM On 5/6/2021
